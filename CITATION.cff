@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this software or research findings in your work, please cite it as below."
+authors:
+  - family-names: "Jha"
+    given-names: "Ayush Kumar"
+    affiliation: "Department of Computer Science and Engineering, MRIIRS, India"
+    email: "jhaayush628@gmail.com"
+  - family-names: "Ahmed"
+    given-names: "Saif"
+    affiliation: "Department of Computer Science and Engineering, MRIIRS, India"
+    email: "saifamd65gmail.com"
+  - family-names: "Dharra"
+    given-names: "Dev"
+    affiliation: "Department of Computer Science and Engineering, MRIIRS, India"
+    email: "Umedsingh9718@gmail.com"
+  - family-names: "Dhankher"
+    given-names: "Ankur"
+    affiliation: "Department of Computer Science and Engineering, MRIIRS, India"
+    email: "ankurdhankher123@gmail.com"
+  - family-names: "Gupta"
+    given-names: "Tanvi"
+    affiliation: "Department of Computer Science and Engineering, MRIIRS, India"
+    email: "tanvigupta.set@mriu.edu.in"
+title: "An IoT-Based Plant Watering System for Controlled Irrigation Based on Plant-Specific Requirements"
+version: 1.0.0
+date-released: 2026-11-07
+url: "https://github.com/ayushkumarjha1/IoT-Plant-Watering-System"
+keywords:
+  - "Internet of Things (IoT)"
+  - "Smart Irrigation"
+  - "Precision Agriculture"
+  - "Soil Moisture"
+  - "Water Conservation"
+  - "ESP32"
+  - "Arduino"
+  - "Plant-Specific Irrigation"
+license: "MIT"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Jha"
+      given-names: "Ayush Kumar"
+    - family-names: "Ahmed"
+      given-names: "Saif"
+    - family-names: "Dharra"
+      given-names: "Dev"
+    - family-names: "Dhankher"
+      given-names: "Ankur"
+    - family-names: "Gupta"
+      given-names: "Tanvi"
+  title: "An IoT-Based Plant Watering System for Controlled Irrigation Based on Plant-Specific Requirements"
+  year: 2026
