@@ -4,7 +4,7 @@ authors:
   - family-names: "Jha"
     given-names: "Ayush Kumar"
     affiliation: "Department of Computer Science and Engineering, MRIIRS, India"
-    email: "jhaayush628@gmail.com"
+    email: "ayushkumarjha189@gmail.com"
   - family-names: "Ahmed"
     given-names: "Saif"
     affiliation: "Department of Computer Science and Engineering, MRIIRS, India"
@@ -17,10 +17,6 @@ authors:
     given-names: "Ankur"
     affiliation: "Department of Computer Science and Engineering, MRIIRS, India"
     email: "ankurdhankher123@gmail.com"
-  - family-names: "Gupta"
-    given-names: "Tanvi"
-    affiliation: "Department of Computer Science and Engineering, MRIIRS, India"
-    email: "tanvigupta.set@mriu.edu.in"
 title: "An IoT-Based Plant Watering System for Controlled Irrigation Based on Plant-Specific Requirements"
 version: 1.0.0
 date-released: 2026-11-07
@@ -46,7 +42,5 @@ preferred-citation:
       given-names: "Dev"
     - family-names: "Dhankher"
       given-names: "Ankur"
-    - family-names: "Gupta"
-      given-names: "Tanvi"
   title: "An IoT-Based Plant Watering System for Controlled Irrigation Based on Plant-Specific Requirements"
   year: 2026

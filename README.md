@@ -12,11 +12,10 @@ An intelligent, closed-loop precision irrigation system developed with the Inter
 
 ## 👥 Authors & Affiliation
 
-* **Ayush Kumar Jha** ([jhaayush628@gmail.com](mailto:jhaayush628@gmail.com))
+* **Ayush Kumar Jha** ([ayushkumarjha189@gmail.com](mailto:ayushkumarjha189@gmail.com))
 * **Saif Ahmed** ([saifamd65@gmail.com](mailto:saifamd65@gmail.com))
 * **Dev Dharra** ([Umedsingh9718@gmail.com](mailto:Umedsingh9718@gmail.com))
 * **Ankur Dhankher** ([ankurdhankher123@gmail.com](mailto:ankurdhankher123@gmail.com))
-* **Tanvi Gupta** ([tanvigupta.set@mriu.edu.in](mailto:tanvigupta.set@mriu.edu.in))
 
 *Department of Computer Science and Engineering, Manav Rachna International Institute of Research and Studies (MRIIRS), Faridabad, Haryana, India.*
 
@@ -146,7 +145,7 @@ If you use this project, code, or research methodology, please cite our paper:
 ```bibtex
 @article{jha2026iotirrigation,
   title={An IoT-Based Plant Watering System for Controlled Irrigation Based on Plant-Specific Requirements},
-  author={Jha, Ayush Kumar and Ahmed, Saif and Dharra, Dev and Dhankher, Ankur and Gupta, Tanvi},
+  author={Jha, Ayush Kumar and Ahmed, Saif and Dharra, Dev and Dhankher, Ankur},
   journal={Department of Computer Science and Engineering, MRIIRS},
   year={2026}
 }

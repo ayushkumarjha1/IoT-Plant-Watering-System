@@ -4,11 +4,10 @@
  *          Plant-Specific Requirements
  * 
  * Authors:
- *   - Ayush Kumar Jha (jhaayush628@gmail.com)
+ *   - Ayush Kumar Jha (ayushkumarjha189@gmail.com)
  *   - Saif Ahmed (saifamd65@gmail.com)
  *   - Dev Dharra (Umedsingh9718@gmail.com)
  *   - Ankur Dhankher (ankurdhankher123@gmail.com)
- *   - Tanvi Gupta (tanvigupta.set@mriu.edu.in)
  * Department of Computer Science and Engineering, MRIIRS, India.
  * 
  * Description:
@@ -376,7 +375,7 @@ void setup() {
   Serial.println(F("=================================================="));
   Serial.println(F(" IoT-Based Plant-Specific Smart Irrigation System "));
   Serial.println(F(" Authors: Ayush Kumar Jha, Saif Ahmed, Dev Dharra, "));
-  Serial.println(F("          Ankur Dhankher, Tanvi Gupta (MRIIRS)     "));
+  Serial.println(F("          Ankur Dhankher (MRIIRS)                  "));
   Serial.println(F("=================================================="));
 
   // Initialize Relays (Default OFF)
